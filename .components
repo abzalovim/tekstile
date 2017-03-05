@@ -1,0 +1,9 @@
+---
+:orm: sequel
+:test: none
+:mock: rr
+:script: jquery
+:renderer: haml
+:stylesheet: sass
+:namespace: P1
+:migration_format: number
